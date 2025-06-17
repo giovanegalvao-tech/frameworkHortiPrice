@@ -59,7 +59,6 @@ Desenvolvido no mestrado em Computação Aplicada (UEPG), o sistema integra dado
 
 **Prof. Giovane Galvão**  
 Mestre em Computação Aplicada – UEPG  
-Docente em Engenharia de Software – Campo Real & UNICENTRO  
-✉️ giovane.seuemail@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/seu-perfil)
+
 
 ---
